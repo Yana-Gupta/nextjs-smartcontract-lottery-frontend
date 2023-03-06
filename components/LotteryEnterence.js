@@ -77,7 +77,9 @@ export default function LotteryEnterence() {
   return (
     <div style={{ padding: "20px 40px" }}>
       {lotteryAddress ? (
+
         <div>
+          Hi from the Lotttery Enterence!
           {entrancefee && (
             <p>Entrance Fee: {ethers.utils.formatUnits(entrancefee)}</p>
           )}
