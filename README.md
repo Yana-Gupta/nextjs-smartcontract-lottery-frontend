@@ -1,0 +1,1 @@
+# nextjs-smartcontract-lottery-frontend
