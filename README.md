@@ -1,1 +1,1 @@
-# nextjs-smartcontract-lottery-frontend
+# Lottery Smartcontract NEXT-JS Frontend
